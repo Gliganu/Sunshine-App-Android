@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Layout alias to replace the single-pane version of the alyout with two-pane version on large screens-->
+
+    <item type="layout" name="fragment_detail">@layout/fragment_detail_wide</item>
+
+
+</resources>
